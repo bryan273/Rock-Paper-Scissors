@@ -1,2 +1,2 @@
 # Rock Paper Scissors
- This is dicoding final project for machine learning begginer course. I made a model to predict shape of hand whether rock, paper, or scissors with Deep Learning.
+ This is Dicoding final project for the machine learning beginner course. I made a model to predict the shape of a hand, whether rock, paper, or scissors, with Deep Learning.
